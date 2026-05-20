@@ -171,4 +171,4 @@ Permite modificar las tasas de cambio desde la interfaz gráfica sin necesidad d
 
 # 👨‍💻 Autor
 
-Proyecto desarrollado por Santy para la asignatura Programación I.
+Prototipo desarrollado por Santiago Palma y Lior Zuluaga.
